@@ -1,2 +1,2 @@
 # todo-list
-A to-do list made with Javascript.
+A modern, minimalist to-do list made with Javascript.
